@@ -3,7 +3,7 @@
 cd $HOME
 
 curl http://dave.cheney.net/paste/go-linux-arm-bootstrap-c788a8e.tbz | tar xj
-curl https://storage.googleapis.com/golang/go1.5.1.src.tar.gz | tar xz
+curl https://storage.googleapis.com/golang/go1.6.src.tar.gz | tar xz
 
 ulimit -s 1024
 
